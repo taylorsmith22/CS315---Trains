@@ -1,0 +1,20 @@
+Project Description: 
+This project is intended to act as a simulation of trains that switch cars with eachother and keep a total number of points for each train.
+The trains (the class Dequeue) are made up cars (a structure called node that holds a data value and has pointers that points to the node that is infront of it and to the node that is behind it).
+The simulation takes command line paramaters called n, c, and t. 
+Each train will contain a total value based on the number of cars it has. 
+Throughout the simulation the randGen.pl random number generator will tell the simulation which train will donate a car and which train will recieve a car.
+Once a train has zero cars left or the appropriate amount of steps has been reached the simulation will stop.
+
+Expected input: 
+The program expects the randGen.pl file with the piping operator (|) to pipe random numbers into the simulation. 
+The program also expects 3 command line paramaters: n, c, and t. 
+Where n is the number of trains, c is the number of cars, and t is the number of steps the program is allowed to go to. 
+N, c, and t should all be integers that are greater than zero. 
+
+Expected output: 
+The program will output which train donates a car, if the car came from the front or the back of the train, which train recieves the donated car, and the values of each train at each step. 
+At the end of the simulation the winner of the simulation, and why the simulation ended will be outputted.
+
+How to Compile: 
+To compile the program enter: make run

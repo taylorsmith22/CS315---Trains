@@ -1,0 +1,240 @@
+Turn 1: Train 4 sends a car to Train 1 from front
+	Train 1 has value 113
+	Train 2 has value 91
+	Train 3 has value 91
+	Train 4 has value 70
+	Train 5 has value 91
+
+Turn 2: Train 5 sends a car to Train 2 from front
+	Train 1 has value 113
+	Train 2 has value 113
+	Train 3 has value 91
+	Train 4 has value 70
+	Train 5 has value 70
+
+Turn 3: Train 1 sends a car to Train 1 from front
+	Train 1 has value 113
+	Train 2 has value 113
+	Train 3 has value 91
+	Train 4 has value 70
+	Train 5 has value 70
+
+Turn 4: Train 1 sends a car to Train 5 from back
+	Train 1 has value 71
+	Train 2 has value 113
+	Train 3 has value 91
+	Train 4 has value 70
+	Train 5 has value 96
+
+Turn 5: Train 3 sends a car to Train 2 from front
+	Train 1 has value 71
+	Train 2 has value 136
+	Train 3 has value 70
+	Train 4 has value 70
+	Train 5 has value 96
+
+Turn 6: Train 2 sends a car to Train 3 from front
+	Train 1 has value 71
+	Train 2 has value 113
+	Train 3 has value 91
+	Train 4 has value 70
+	Train 5 has value 96
+
+Turn 7: Train 4 sends a car to Train 3 from front
+	Train 1 has value 71
+	Train 2 has value 113
+	Train 3 has value 114
+	Train 4 has value 50
+	Train 5 has value 96
+
+Turn 8: Train 2 sends a car to Train 4 from back
+	Train 1 has value 71
+	Train 2 has value 71
+	Train 3 has value 114
+	Train 4 has value 74
+	Train 5 has value 96
+
+Turn 9: Train 2 sends a car to Train 3 from back
+	Train 1 has value 71
+	Train 2 has value 41
+	Train 3 has value 142
+	Train 4 has value 74
+	Train 5 has value 96
+
+Turn 10: Train 5 sends a car to Train 3 from back
+	Train 1 has value 71
+	Train 2 has value 41
+	Train 3 has value 176
+	Train 4 has value 74
+	Train 5 has value 60
+
+Turn 11: Train 4 sends a car to Train 3 from back
+	Train 1 has value 71
+	Train 2 has value 41
+	Train 3 has value 216
+	Train 4 has value 44
+	Train 5 has value 60
+
+Turn 12: Train 3 sends a car to Train 4 from front
+	Train 1 has value 71
+	Train 2 has value 41
+	Train 3 has value 176
+	Train 4 has value 68
+	Train 5 has value 60
+
+Turn 13: Train 3 sends a car to Train 2 from back
+	Train 1 has value 71
+	Train 2 has value 58
+	Train 3 has value 122
+	Train 4 has value 68
+	Train 5 has value 60
+
+Turn 14: Train 5 sends a car to Train 4 from back
+	Train 1 has value 71
+	Train 2 has value 58
+	Train 3 has value 122
+	Train 4 has value 97
+	Train 5 has value 35
+
+Turn 15: Train 5 sends a car to Train 5 from back
+	Train 1 has value 71
+	Train 2 has value 58
+	Train 3 has value 122
+	Train 4 has value 97
+	Train 5 has value 34
+
+Turn 16: Train 2 sends a car to Train 4 from front
+	Train 1 has value 71
+	Train 2 has value 41
+	Train 3 has value 122
+	Train 4 has value 132
+	Train 5 has value 34
+
+Turn 17: Train 1 sends a car to Train 5 from back
+	Train 1 has value 41
+	Train 2 has value 41
+	Train 3 has value 122
+	Train 4 has value 132
+	Train 5 has value 54
+
+Turn 18: Train 1 sends a car to Train 5 from front
+	Train 1 has value 30
+	Train 2 has value 41
+	Train 3 has value 122
+	Train 4 has value 132
+	Train 5 has value 75
+
+Turn 19: Train 2 sends a car to Train 5 from back
+	Train 1 has value 30
+	Train 2 has value 21
+	Train 3 has value 122
+	Train 4 has value 132
+	Train 5 has value 100
+
+Turn 20: Train 1 sends a car to Train 2 from back
+	Train 1 has value 14
+	Train 2 has value 32
+	Train 3 has value 122
+	Train 4 has value 132
+	Train 5 has value 100
+
+Turn 21: Train 5 sends a car to Train 3 from back
+	Train 1 has value 14
+	Train 2 has value 32
+	Train 3 has value 153
+	Train 4 has value 132
+	Train 5 has value 79
+
+Turn 22: Train 5 sends a car to Train 3 from front
+	Train 1 has value 14
+	Train 2 has value 32
+	Train 3 has value 188
+	Train 4 has value 132
+	Train 5 has value 57
+
+Turn 23: Train 3 sends a car to Train 1 from back
+	Train 1 has value 25
+	Train 2 has value 32
+	Train 3 has value 138
+	Train 4 has value 132
+	Train 5 has value 57
+
+Turn 24: Train 2 sends a car to Train 5 from back
+	Train 1 has value 25
+	Train 2 has value 17
+	Train 3 has value 138
+	Train 4 has value 132
+	Train 5 has value 78
+
+Turn 25: Train 2 sends a car to Train 5 from back
+	Train 1 has value 25
+	Train 2 has value 9
+	Train 3 has value 138
+	Train 4 has value 132
+	Train 5 has value 101
+
+Turn 26: Train 2 sends a car to Train 4 from front
+	Train 1 has value 25
+	Train 2 has value 3
+	Train 3 has value 138
+	Train 4 has value 171
+	Train 5 has value 101
+
+Turn 27: Train 2 sends a car to Train 4 from front
+	Train 1 has value 25
+	Train 2 has value 1
+	Train 3 has value 138
+	Train 4 has value 211
+	Train 5 has value 101
+
+Turn 28: Train 4 sends a car to Train 1 from front
+	Train 1 has value 37
+	Train 2 has value 1
+	Train 3 has value 138
+	Train 4 has value 171
+	Train 5 has value 101
+
+Turn 29: Train 1 sends a car to Train 3 from front
+	Train 1 has value 25
+	Train 2 has value 1
+	Train 3 has value 169
+	Train 4 has value 171
+	Train 5 has value 101
+
+Turn 30: Train 3 sends a car to Train 5 from back
+	Train 1 has value 25
+	Train 2 has value 1
+	Train 3 has value 129
+	Train 4 has value 171
+	Train 5 has value 128
+
+Turn 31: Train 1 sends a car to Train 5 from front
+	Train 1 has value 14
+	Train 2 has value 1
+	Train 3 has value 129
+	Train 4 has value 171
+	Train 5 has value 160
+
+Turn 32: Train 5 sends a car to Train 1 from front
+	Train 1 has value 25
+	Train 2 has value 1
+	Train 3 has value 129
+	Train 4 has value 171
+	Train 5 has value 128
+
+Turn 33: Train 4 sends a car to Train 3 from front
+	Train 1 has value 25
+	Train 2 has value 1
+	Train 3 has value 160
+	Train 4 has value 132
+	Train 5 has value 128
+
+Turn 34: Train 2 sends a car to Train 5 from front
+	Train 1 has value 25
+	Train 2 has value 0
+	Train 3 has value 160
+	Train 4 has value 132
+	Train 5 has value 156
+
+Simulation is over, Train 2 has no cars left
+Train 3 had the highest value
